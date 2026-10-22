@@ -1,0 +1,2 @@
+# Chatgbt-Promt
+Hile kodlama
